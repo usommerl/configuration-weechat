@@ -1,0 +1,5 @@
+logs/
+sec.conf
+weechat.log
+script/
+.backup.log
